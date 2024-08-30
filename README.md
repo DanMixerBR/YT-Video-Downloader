@@ -11,6 +11,7 @@ Discover the best script to download videos from YouTube and Instagram, develope
 3. Run the desired script. Example: **YT Video Downloader.bat**;
 
 4. Enter the link of the video you want to download and press **Enter**. The video will be automatically downloaded in the best quality available.
+
 ![image](https://github.com/user-attachments/assets/80929161-2615-434e-8df7-8ed507ddfdd7)
 
 
