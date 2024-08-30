@@ -1,9 +1,6 @@
 ﻿# **YT Video Downloader**
 
-Script to download videos from YouTube and Instagram, using yt-dlp and ffmpeg.
-
-
-Discover the best script to download videos from YouTube and Instagram, developed in 2023 by **DanMixerBR**.
+Discover the best script to download videos from YouTube and Instagram, developed in 2023 by **DanMixerBR**. The scripts use the latest version of **yt-dlp** and **ffmpeg**.
 
 **INSTRUCTIONS:**
 
