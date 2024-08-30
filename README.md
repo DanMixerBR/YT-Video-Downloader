@@ -14,5 +14,6 @@ Discover the best script to download videos from YouTube and Instagram, develope
 
 ![image](https://github.com/user-attachments/assets/80929161-2615-434e-8df7-8ed507ddfdd7)
 
+5. Downloads are available in the same folder as the script. Example: "**videos**" folder for YouTube downloads and "**reels**" folder for Instagram downloads.
 
 If you have any questions, visit our Discord: https://discord.gg/579dn6xk
