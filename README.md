@@ -12,8 +12,10 @@ Discover the best script to download videos from YouTube and Instagram, develope
 
 4. Enter the link of the video you want to download and press **Enter**. The video will be automatically downloaded in the best quality available.
 
-![image](https://github.com/user-attachments/assets/80929161-2615-434e-8df7-8ed507ddfdd7)
+![Screenshot_29](https://github.com/user-attachments/assets/08708010-a19c-466c-96eb-7f7cd61ade09)
 
 5. Downloads are available in the same folder as the script. Example: "**videos**" folder for YouTube downloads and "**reels**" folder for Instagram downloads.
+
+![image](https://github.com/user-attachments/assets/0cc51162-455a-4894-8398-26cbb5492b95)
 
 If you have any questions, visit our Discord: https://discord.gg/579dn6xk
